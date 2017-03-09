@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void main(void)
+{
+	char chr;
+	printf("input 1 please \n");
+	scanf("%c", &chr);
+	if(chr == 1)
+		printf("your name \n");
+	else
+		printf("are you stupid? \n");
+}
