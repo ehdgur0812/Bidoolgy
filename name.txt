@@ -7,6 +7,8 @@ void main(void)
 	scanf("%c", &chr);
 	if(chr == 1)
 		printf("your name \n");
+	else if(chr == 2)
+		printf("i am kang dong hyuk how old are you ? \n");
 	else
 		printf("are you stupid? \n");
 }
