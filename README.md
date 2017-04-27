@@ -26,6 +26,9 @@
     ![memo!](https://github.com/ehdgur0812/Bidoolgy/blob/master/Polymer/Image/memo.PNG)
 
 
-# 수요일 10~11 ~ 15~17 
+#
+#
+#
+# 수요일 10~11 , 15~17 
 # 소프트웨어학부(컴퓨터전공 < 컴퓨터공학과 > )
 # 2014037729 강동혁
